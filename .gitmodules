@@ -1,0 +1,8 @@
+[submodule "Spotify-Angular"]
+	path = Spotify-Angular
+	url = git@github.com:deepakMaj/Spotify-Angular.git
+	branch = master
+[submodule "Spotify-Rails"]
+	path = Spotify-Rails
+	url = git@github.com:deepakMaj/Spotify-Rails.git
+	branch = master
